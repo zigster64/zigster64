@@ -8,14 +8,16 @@ Here is a list of Zig projects Im working on
 
 Other Zig projects Im actively using / collaborating on
 
-karlseguin
-- ⚡ [http.zig](https://github.com/karlseguin/http.zig)  HTTP 1.1 server
-- ⚡ [websocket.zig](https://github.com/karlseguin/websocket.zig)  Websocket server
-- ⚡ [zuckdb.zig](https://github.com/karlseguin/zuckdb.zig)  DuckDB library
-- ⚡ [pg.zig](https://github.com/karlseguin/http.zig)  Zig native Postgresql client library
+karlseguin - local forks for development / PRs
+- ⚡ [http.zig](https://github.com/zigster64/http.zig)  HTTP 1.1 server
+- ⚡ [websocket.zig](https://github.com/zigster64/websocket.zig)  Websocket server
+- ⚡ [zuckdb.zig](https://github.com/zigster64/zuckdb.zig)  DuckDB library
+- ⚡ [pg.zig](https://github.com/zigster64/http.zig)  Zig native Postgresql client library
 
 Others
-- ⚡ [Capy UI](https://github.com/capy-ui/capy)  Zig native GUI library
+- ⚡ [Capy UI](https://github.com/zigster64/capy)  Zig native GUI library
+- ⚡ [ZLS]https://github.com/zigster64/zlsy)  ZLS Language Server
+- ⚡ [Zig Language](https://github.com/zigster64/zlsy)  Zig language and compiler
 
 <!--
 **zigster64/zigster64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
