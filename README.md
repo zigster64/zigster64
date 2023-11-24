@@ -16,7 +16,7 @@ karlseguin - local forks for development / PRs
 
 Others
 - ⚡ [Capy UI](https://github.com/zigster64/capy)  Zig native GUI library
-- ⚡ [ZLS]https://github.com/zigster64/zlsy)  ZLS Language Server
+- ⚡ [ZLS](https://github.com/zigster64/zlsy)  ZLS Language Server
 - ⚡ [Zig Language](https://github.com/zigster64/zlsy)  Zig language and compiler
 
 <!--
