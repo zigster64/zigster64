@@ -1,4 +1,4 @@
-### Hi there 👋
+### 𒀳  Scribe of the Ziggurat  𒅆𒂍𒉪
 
 Here is a list of Zig projects Im working on
 
