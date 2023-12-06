@@ -14,6 +14,10 @@ karlseguin - local forks for development / PRs
 - ⚡ [zuckdb.zig](https://github.com/zigster64/zuckdb.zig)  DuckDB library
 - ⚡ [pg.zig](https://github.com/zigster64/http.zig)  Zig native Postgresql client library
 
+Working on libUI-ng stuff
+- ⚡ [Zig libui-ng](https://github.com/zigster64/zig-libui-ng) Zig bindings to libUI-ng
+- C  [Zig libui-ng](https://github.com/zigster64/libui-ng) C library that provides a common wrapper over native UI elements
+  
 Others
 - ⚡ [Capy UI](https://github.com/zigster64/capy)  Zig native GUI library
 - ⚡ [Zig libui-ng](https://github.com/zigster64/zig-libui-ng) Zig bindings to libUI-ng
