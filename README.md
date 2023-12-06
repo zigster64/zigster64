@@ -16,7 +16,7 @@ karlseguin - local forks for development / PRs
 
 Working on libUI-ng stuff
 - ⚡ [Zig libui-ng](https://github.com/zigster64/zig-libui-ng) Zig bindings to libUI-ng
-- C  [Zig libui-ng](https://github.com/zigster64/libui-ng) C library that provides a common wrapper over native UI elements
+- C  [libui-ng](https://github.com/zigster64/libui-ng) Underlying C library that provides a common UI wrapper over native elements (Win32 / GTK / Obj-C Mac)
   
 Others
 - ⚡ [Capy UI](https://github.com/zigster64/capy)  Zig native GUI library
