@@ -1,7 +1,6 @@
 ### 𒀳  Scribe of the Ziggurat  𒅆𒂍𒉪
 
 ![ziggurat](https://avatars.githubusercontent.com/u/72325365?s=400&u=34471213c3cd836b017b6b85db6546e83aec64f8&v=4)
-![scribe](https://avatars.githubusercontent.com/u/72305366?v=4)
 
 🔭
 Here is a list of (public) Zig projects Im working on for 2024
