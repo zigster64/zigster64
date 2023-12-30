@@ -46,3 +46,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Configs
+
+- https://github.com/zigster64/lunavim.config my LunaVim config
