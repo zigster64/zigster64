@@ -29,8 +29,8 @@ Working on libUI-ng stuff for Native UI development
   
 Others
 - ⚡ [Capy UI](https://github.com/zigster64/capy)  Zig native GUI library
-- ⚡ [ZLS](https://github.com/zigster64/zlsy)  ZLS Language Server
-- ⚡ [Zig Language](https://github.com/zigster64/zlsy)  Zig language and compiler
+- ⚡ [ZLS](https://github.com/zigster64/zls)  ZLS Language Server
+- ⚡ [Zig Language](https://github.com/zigster64/zig)  Zig language and compiler
 
 <!--
 **zigster64/zigster64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
