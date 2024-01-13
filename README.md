@@ -21,7 +21,7 @@ karlseguin - local forks for development / PRs
 - ⚡ [http.zig](https://github.com/zigster64/http.zig)  HTTP 1.1 server
 - ⚡ [websocket.zig](https://github.com/zigster64/websocket.zig)  Websocket server
 - ⚡ [zuckdb.zig](https://github.com/zigster64/zuckdb.zig)  DuckDB library
-- ⚡ [pg.zig](https://github.com/zigster64/http.zig)  Zig native Postgresql client library
+- ⚡ [pg.zig](https://github.com/zigster64/pg.zig)  Zig native Postgresql client library
 
 Working on libUI-ng stuff for Native UI development
 - ⚡ [Zig libui-ng](https://github.com/zigster64/zig-libui-ng) Zig bindings to libUI-ng
