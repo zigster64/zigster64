@@ -12,11 +12,20 @@ Rather than write a direct port of these existing Go/Java/Rust/C++ utils into Zi
 
 Until Zig 1.0 lands, all my working repos are based on nightly master
 
+🔭
+Here is a list of private Zig projects that are WIP - to be released when I get some time to work on them
 
+Zig backend components for HTMX
+
+- htmx.auth.zig .. An easy to use OAUTH2 flow for HTMX apps in Zig
+- htmx.datatable.zig  .. A HTMX Datatable component for Zig
+- htmx.layout.zig .. A HTMX Layout component for Zig
+- htmx.forms.zig .. A HTMX Forms component for Zig
+  
 🔭
 Here is a list of public Zig projects Im working on for 2024-2025 FY
 
-- ⚡ [csv.zig](https://github.com/zigster64/jwt.zig) Hard fork of softprops excellent zig-jwt, working with latest 0.14, and some added tweaks to allow decoding unverified JWT payloads
+- ⚡ [jwt.zig](https://github.com/zigster64/jwt.zig) Hard fork of softprops excellent zig-jwt, working with latest 0.14, and some added tweaks to allow decoding unverified JWT payloads
 
 - ⚡ [csv.zig](https://github.com/zigster64/csv.zig) Very simple package to read and parse CSV streaming data into Zig structs
 - ⚡ [dotenv.zig](https://github.com/zigster64/dotenv.zig) Very simple package to load ENV vars from .env files on boot
