@@ -58,6 +58,7 @@ Zig backend components for HTMX
 - [htmx.datatable.zig](https://github.com/zigster64/htmx.datatable.zig)  .. A HTMX Datatable component for Zig
 - [htmx.layout.zig](https://github.com/zigster64/htmx.layout.zig) .. A HTMX Layout component for Zig
 - [htmx.forms.zig](https://github.com/zigster64/htmx.forms.zig) .. A HTMX Forms component for Zig
+- [htmx.zig](https://github.com/zigster64/htmx.zig) .. Consolidated HTMX utils for Zig
   
 <!--
 **zigster64/zigster64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
