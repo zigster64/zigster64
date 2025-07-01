@@ -50,15 +50,7 @@ Others
 
 
 🌱
-Here is a list of private Zig projects that are WIP - to be released when I get some time to work on them
 
-Zig backend components for HTMX
-
-- [htmx.auth.zig](https://github.com/zigster64/htmx.auth.zig) .. An easy to use OAUTH2 flow for HTMX apps in Zig
-- [htmx.datatable.zig](https://github.com/zigster64/htmx.datatable.zig)  .. A HTMX Datatable component for Zig
-- [htmx.layout.zig](https://github.com/zigster64/htmx.layout.zig) .. A HTMX Layout component for Zig
-- [htmx.forms.zig](https://github.com/zigster64/htmx.forms.zig) .. A HTMX Forms component for Zig
-- [htmx.zig](https://github.com/zigster64/htmx.zig) .. Consolidated HTMX utils for Zig
   
 <!--
 **zigster64/zigster64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
