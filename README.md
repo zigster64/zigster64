@@ -22,6 +22,8 @@ Here is a list of public Zig projects Im working on for 2026-27 FY (Zig 0.15.1)
   
 - ⚡ [paseto.zig](https://github.com/zigster64/paseto.zig) Very simple Paseto v4 encode/decode lib for having properly secure tokens (as opposed to JWT)
 
+- ⚡ [Zig Language](https://github.com/zigster64/zig)  Zig language and compiler
+
 ----
 🔭
 Here is a list of public Zig projects Im working on for 2025-26 FY
@@ -32,6 +34,7 @@ g lived connections with realtime updates.
 
 - ⚡ [datastor.zig](https://github.com/zigster64/datastor.zig) Very prototype Zig lib for a concept Data Persistence layer suitable for games / IoT
 
+----
 🔭
 Here is a list of Zig projects I have completed (2023)
   
@@ -39,15 +42,19 @@ Here is a list of Zig projects I have completed (2023)
 - ⚡ [zig-zag-zoe](https://github.com/zigster64/zig-zag-zoe)  Multi-player web based game, using HTMX and SSE
 - ⚡ [zchat](https://github.com/zigster64/zchat)  Unique chat application, using cuniform over HTTP
 
+----
 👯 
-Other Zig projects Im actively using / collaborating on (2023 - 2024)
+Other Zig projects Im actively using / collaborating on (2023 - 2026)
 
 karlseguin - local forks for development / PRs
-- ⚡ [pg.zig](https://github.com/zigster64/pg.zig)  Zig native Postgresql client library
-
 - ⚡ [http.zig](https://github.com/zigster64/http.zig)  HTTP 1.1 server
+
+- ⚡ [pg.zig](https://github.com/zigster64/pg.zig)  Zig native Postgresql client library
 - ⚡ [websocket.zig](https://github.com/zigster64/websocket.zig)  Websocket server
 - ⚡ [zuckdb.zig](https://github.com/zigster64/zuckdb.zig)  DuckDB library
+
+----
+Older Stuff
 
 Working on libUI-ng stuff for Native UI development
 - ⚡ [Zig libui-ng](https://github.com/zigster64/zig-libui-ng) Zig bindings to libUI-ng
@@ -56,7 +63,6 @@ Working on libUI-ng stuff for Native UI development
 Others
 - ⚡ [Capy UI](https://github.com/zigster64/capy)  Zig native GUI library
 - ⚡ [ZLS](https://github.com/zigster64/zls)  ZLS Language Server
-- ⚡ [Zig Language](https://github.com/zigster64/zig)  Zig language and compiler
 
 
 🌱
