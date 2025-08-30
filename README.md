@@ -14,10 +14,15 @@ Rather than write a direct port of these existing Go/Java/Rust/C++ utils into Zi
 Until Zig 1.0 lands, all my working repos are based on nightly master
 
 🔭
+Here is a list of public Zig projects Im working on for 2026-27 FY (Zig 0.15.1)
+
+- ⚡ [jwt.zig](https://github.com/zigster64/datastar.http.zig) Alternate driver for Datastar apps with zig 0.15.1. All stream based with no intermediate buffering. Includes a pub/sub mechanism for handling many long lived connections with realtime updates. Should work with http.zig/jetzig/tokamak/stdlib
+  
+- ⚡ [jwt.zig](https://github.com/zigster64/paseto.zig) Very simple Paseto v4 encode/decode lib for having properly secure tokens (as opposed to JWT)
+  
+🔭
 Here is a list of public Zig projects Im working on for 2025-26 FY
-
-- ⚡ [jwt.zig](https://github.com/zigster64/datastar.http.zig) Alternate driver for Datastar apps with http.zig (only). All stream based with no intermediate buffering. Includes a pub/sub mechanism for handling many long lived connections with realtime updates.
-
+g lived connections with realtime updates.
 
 - ⚡ [csv.zig](https://github.com/zigster64/csv.zig) Very simple package to read and parse CSV streaming data into Zig structs
 - ⚡ [dotenv.zig](https://github.com/zigster64/dotenv.zig) Very simple package to load ENV vars from .env files on boot
