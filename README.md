@@ -27,7 +27,6 @@ Here is a list of public Zig projects Im working on for 2026-27 FY (Zig 0.15.1)
 ----
 🔭
 Here is a list of public Zig projects Im working on for 2025-26 FY
-g lived connections with realtime updates.
 
 - ⚡ [csv.zig](https://github.com/zigster64/csv.zig) Very simple package to read and parse CSV streaming data into Zig structs
 - ⚡ [dotenv.zig](https://github.com/zigster64/dotenv.zig) Very simple package to load ENV vars from .env files on boot
