@@ -12,7 +12,7 @@ There are many common problem domains out there, with many common solutions in a
 Rather than write a direct port of these existing Go/Java/Rust/C++ utils into Zig .. it can pay to relax and do things the Zig way instead
 
 All my code is targetted at 0.15.1 for now.  
-Will start to migrate to 0.15-dev once async is usable pre 0.16
+Will start to migrate to 0.16-dev once async is usable pre 0.16
 
 ---
 🔭
