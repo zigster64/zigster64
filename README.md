@@ -16,9 +16,11 @@ Will start to migrate to 0.16-dev once async is usable pre 0.16
 
 ---
 🔭
-Here is a list of public Zig projects Im working on for 2026-27 FY (Zig 0.15.1)
+Here is a list of public Zig projects Im working on for 2026-27 FY (Zig 0.15.1 - 0.16-dev)
 
-- ⚡ [datastar.http.zig](https://github.com/zigster64/datastar.http.zig) Alternate driver for Datastar apps with zig 0.15.1. All stream based with no intermediate buffering. Includes a pub/sub mechanism for handling many long lived connections with realtime updates. Should work with http.zig/jetzig/tokamak/stdlib
+- ⚡ [datastar.zig](https://github.com/zigster64/datastar.zig) Alternate driver for Datastar apps with zig 0.16-dev. Includes a built in bare-bones HTTP server with router, based on stdlib. Not performant at this stage, but intended to provide a framework for experimenting with the new IO.
+- 
+- ⚡ [datastar.http.zig](https://github.com/zigster64/datastar.http.zig) Alternate driver for Datastar apps with zig 0.15.1. Includes a pub/sub mechanism for handling many long lived connections with realtime updates. Should work with http.zig/jetzig/tokamak/stdlib
   
 - ⚡ [paseto.zig](https://github.com/zigster64/paseto.zig) Very simple Paseto v4 encode/decode lib for having properly secure tokens (as opposed to JWT)
 
