@@ -18,6 +18,8 @@ Will start to migrate to 0.16-dev once async is usable pre 0.16
 🔭
 Here is a list of public Zig projects Im working on for 2026-27 FY (Zig 0.15.1 - 0.16-dev)
 
+- ⚡ [pubsub.zig](https://github.com/zigster64/pubsub.zig) A small embedded PubSub message queue service, for Zig 0.16. Small package with a few really nice features and philosophy. Check it out !  Im using this as the basis for PubSub in the new Datastar Zig SDK.
+  
 - ⚡ [datastar.zig](https://github.com/zigster64/datastar.zig) Alternate driver for Datastar apps with zig 0.16-dev. Includes a built in bare-bones HTTP server with router, based on stdlib. Not indended to be performant at this stage, but intended to provide a framework for experimenting with the new IO.  Uses Io.Threaded - until Io.Evented becomes available.
   
 - ⚡ [datastar.http.zig](https://github.com/zigster64/datastar.http.zig) Alternate driver for Datastar apps with zig 0.15.1. Includes a pub/sub mechanism for handling many long lived connections with realtime updates. Should work with http.zig/jetzig/tokamak/stdlib
